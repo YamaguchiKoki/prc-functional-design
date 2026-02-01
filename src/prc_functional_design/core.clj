@@ -1,4 +1,4 @@
-(ns ..core)
+(ns prc-functional-design.core)
 
 (defn -main
   [& args]
